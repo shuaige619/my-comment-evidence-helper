@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "my-comment-evidence-helper",
+  "source_version": "de7c187c78d2832e21f02fcfea247949be0acdece6408037c8714d637054cd89",
+  "origin": "original",
+  "stage": "saved",
+  "upstream": "",
+  "files": {
+    "PROMPT.md": "b1e8a9f8859a12fc605807730c9fdd392bc0d58ec945748dbe017251c8901473",
+    "README.md": "1f820fde9b4a123200b80730a80375fbc5c5caea16eaa1492156c6e4aefc3d9a",
+    "SKILL.md": "1654ed64b9ea4d3e0ac90fbd4354563a3c48ed219d863f71cd76b7a682e9f27d",
+    "references/example.md": "e3376f7d624c00a0de66f09f762aebce74d41ae8ec85b57fce0799ffae87c2d5"
+  }
+}
